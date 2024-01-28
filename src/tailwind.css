@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nav-tab-active {
+    @apply bg-blue-900 !important;
+}
+
+ /* Modal Anfangs- und Endzustände */
+ .modal-hidden {
+    display: none;
+    opacity: 0;
+    transition: all 0.5s ease-in-out;
+}
+
+.modal-visible {
+    display: block;
+    opacity: 1;
+    transition: all 0.5s ease-in-out;
+
+}

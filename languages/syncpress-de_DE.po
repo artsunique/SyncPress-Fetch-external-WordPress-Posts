@@ -1,0 +1,187 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.4.2\n"
+"Language: de_DE\n"
+
+#. Text in <h2> Tag
+msgid "How To Use"
+msgstr "Anleitung"
+
+#. Text in <p> Tag
+msgid "Follow these instructions to effectively use the SyncPress plugin:"
+msgstr "Befolgen Sie diese Anweisungen, um das SyncPress-Plugin effektiv zu nutzen:"
+
+#. Text in Step 1
+msgid "Step 1:"
+msgstr "Schritt 1:"
+
+msgid "Navigate to the \"Import Posts\" tab. Here, input the URL of the WordPress site you wish to import posts from and specify the number of posts to import per page."
+msgstr "Navigieren Sie zur Registerkarte \"Beiträge importieren\". Geben Sie hier die URL der WordPress-Website ein, von der Sie Beiträge importieren möchten, und legen Sie die Anzahl der pro Seite zu importierenden Beiträge fest."
+
+#. Text in Step 2
+msgid "Step 2:"
+msgstr "Schritt 2:"
+
+msgid "Click on the \"Fetch Posts\" button. This action initiates the import process, fetching posts from the provided URL."
+msgstr "Klicken Sie auf den Button \"Beiträge abrufen\". Diese Aktion startet den Importvorgang und holt Beiträge von der angegebenen URL."
+
+#. Text in Step 3
+msgid "Step 3:"
+msgstr "Schritt 3:"
+
+msgid "View the fetched posts under the \"Fetched Posts\" tab. This tab allows for the review and management of the imported content. You have the option to edit or delete each post individually."
+msgstr "Sehen Sie sich die abgerufenen Beiträge unter der Registerkarte \"Abgerufene Beiträge\" an. Diese Registerkarte ermöglicht die Überprüfung und Verwaltung des importierten Inhalts. Sie haben die Möglichkeit, jeden Beitrag einzeln zu bearbeiten oder zu löschen."
+
+#. Text in Step 4
+msgid "Step 4:"
+msgstr "Schritt 4:"
+
+msgid "To track and review the history of your imports, go to the \"Import History\" tab. This section provides details such as the number of posts imported, the date and time of each import, a log of any errors encountered during the import process, and the source URL of the imported posts."
+msgstr "Um die Historie Ihrer Importe zu verfolgen und zu überprüfen, gehen Sie zur Registerkarte \"Importverlauf\". Dieser Abschnitt bietet Details wie die Anzahl der importierten Beiträge, Datum und Uhrzeit jedes Imports, ein Protokoll über etwaige Fehler während des Importvorgangs und die Quell-URL der importierten Beiträge."
+
+msgid "Import History"
+msgstr "Importverlauf"
+
+msgid "No import history found."
+msgstr "Kein Importverlauf gefunden."
+
+msgid "Date/Time"
+msgstr "Datum/Uhrzeit"
+
+msgid "Posts"
+msgstr "Beiträge"
+
+msgid "Source"
+msgstr "Quelle"
+
+msgid "Errors"
+msgstr "Fehler"
+
+#. Text for 'Clear History' button
+msgid "Clear History"
+msgstr "Verlauf löschen"
+
+#. Success message for cleared history
+msgid "Import history cleared successfully."
+msgstr "Importverlauf erfolgreich gelöscht."
+
+#. Success message for imported posts
+msgid "Posts successfully imported."
+msgstr "Beiträge erfolgreich importiert."
+
+#. Error message for no posts found
+msgid "No posts found to import."
+msgstr "Keine Beiträge zum Importieren gefunden."
+
+#. Error message for previously fetched posts
+msgid "These posts have already been previously imported."
+msgstr "Diese Beiträge wurden bereits zuvor importiert."
+
+#. Error message for import request failure
+msgid "Error in request: "
+msgstr "Fehler in der Anfrage: "
+
+#. Action message for successful deletion
+msgid "Action successfully performed."
+msgstr "Aktion erfolgreich durchgeführt."
+
+#. Success message for deleted fetched posts
+msgid "All fetched posts deleted successfully."
+msgstr "Alle abgerufenen Beiträge erfolgreich gelöscht."
+
+#. Label for 'None' in errors column
+msgid "None"
+msgstr "Keine"
+
+#. Label for title
+msgid "Title"
+msgstr "Titel"
+
+#.Label Clear History
+msgid "Clear History"
+msgstr "Verlauf loeschen"
+
+#. Label Import History
+msgid "Import History"
+msgstr "Import Verlauf"
+
+#. Label No import history found
+msgid "Label No import history found"
+msgstr "Import Verlauf"
+
+#. Label Date/Time
+msgid "Date/Time"
+msgstr "Datum/Uhrzeit"
+
+#. Label for Source
+msgid "Source"
+msgstr "Quelle"
+
+#. Label for Errors
+msgid "Errors"
+msgstr "Fehler"
+
+#. Label for
+msgid ">No fetched posts found."
+msgstr "Nichts zum fetchen gefunden."
+
+#. Label for Fetched Posts
+msgid "Fetched Posts"
+msgstr "Fetched Posts"
+
+#. Label for ID
+msgid "ID"
+msgstr "ID"
+
+#. Label for Action
+msgid "Action"
+msgstr "Aktion"
+
+#. Label for Delete All Posts
+msgid "Delete All Posts"
+msgstr "Alle Posts entfernen"
+
+#. Label for Start importing Posts
+msgid "Start importing Posts"
+msgstr "Import Posts starten"
+
+#. Label for Error white importing posts
+msgid "Error white importing posts."
+msgstr "Fehler beim Import der Posts."
+
+#. Label for 'Posts wurden erfolgreich importiert
+msgid "Post successfully imported."
+msgstr "'Posts wurden erfolgreich importiert."
+
+#. Label for Site URL
+msgid "Site URL"
+msgstr "Seiten URL"
+
+#. Label for Number of Posts
+msgid "Number of Posts"
+msgstr "Anzahl der Posts"
+
+#. Label for Post Type
+msgid "Post Type"
+msgstr "Post Type"
+
+#. Label for Posts
+msgid "Posts"
+msgstr "Posts"
+
+
+#. Label for Pages
+msgid "Pages"
+msgstr "Pages"
+
+#. Label for Import into
+msgid "Import into"
+msgstr "Ziel"
+
+#. Label for Action
+msgid "Action successfully done."
+msgstr "Aktion erfolgreich durchgeführt."
+
