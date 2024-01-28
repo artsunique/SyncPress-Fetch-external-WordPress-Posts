@@ -64,7 +64,7 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 
 ## License
 
-This plugin is licensed under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+This plugin is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). This license allows others to distribute, remix, adapt, and build upon the work, even commercially, as long as the original author is credited.
 
 ## Credits
 
@@ -134,7 +134,7 @@ Beiträge sind willkommen! Wenn Sie Probleme feststellen oder Verbesserungsvorsc
 
 ## Lizenz
 
-Dieses Plugin steht unter der [CC BY 4.0-Lizenz](https://creativecommons.org/licenses/by/4.0/).
+Dieses Plugin ist unter der [Creative Commons Namensnennung 4.0 International Lizenz (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.de) lizenziert. Diese Lizenz erlaubt es anderen, das Werk zu verbreiten, zu remixen, anzupassen und darauf aufzubauen, auch kommerziell, solange der Urheber des Originals genannt wird.
 
 ## Credits
 
