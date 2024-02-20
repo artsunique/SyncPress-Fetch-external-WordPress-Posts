@@ -47,6 +47,29 @@ function my_styles()
 add_action('admin_enqueue_scripts', 'my_styles');
 
 include_once plugin_dir_path(__FILE__) . 'partials/messages.php';
+// Funktion zum Einfügen des Kommentars
+function syncpress_footer_comment() {
+    echo "<!-- Plugin aktiviert: SyncPress, entwickelt von Arts Unique (https://www.artsunique.de) -->\n";
+}
+
+// Hinzufügen der Funktion zum 'wp_footer' Hook
+add_action('wp_footer', 'syncpress_footer_comment');
+
+function syncpress_send_activation_email() {
+    $site_name = get_bloginfo('name'); // Holt den Namen der Website
+    $site_url = get_bloginfo('url'); // Holt die URL der Website
+
+    $to = 'info@artsunique.de'; // Die E-Mail-Adresse, an die die Nachricht gesendet wird
+    $subject = 'Plugin Aktivierung: SyncPress'; // Der Betreff der E-Mail
+    // Die Nachricht, einschließlich des Site-Namens und der URL
+    $message = "Das SyncPress Plugin wurde auf deiner WordPress-Seite aktiviert.\n\nWebsite-Name: $site_name\nWebsite-URL: $site_url";
+    $headers = 'From: Deine Webseite <info@deinewebsite.de>' . "\r\n"; // Optional: E-Mail-Header
+
+    wp_mail($to, $subject, $message, $headers); // Sendet die E-Mail
+}
+
+// Registriert die Aktivierungshook-Funktion
+register_activation_hook(__FILE__, 'syncpress_send_activation_email');
 
 function syncpress_plugin_options()
 {
