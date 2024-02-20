@@ -62,9 +62,18 @@ The plugin retrieves essential post details including title, content, excerpt, a
 
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or send a pull request on the [GitHub Repository](https://github.com/your-username/external-wp-posts-importer).
 
+## Usage Terms
+
+The use of SyncPress is permitted exclusively for non-commercial purposes. Use of the plugin for commercial purposes, especially by web design, marketing, and SEO agencies, or similar services in the commercial sector, without prior written consent from Arts Unique is not allowed. This includes, but is not limited to, using the plugin for client projects, creating derivative works, or using the plugin in a commercial product or service.
+
+For inquiries regarding commercial use or partnerships, please contact info@artsunique.de.
+
 ## License
 
-This plugin is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). This license allows others to distribute, remix, adapt, and build upon the work, even commercially, as long as the original author is credited.
+This plugin is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). This license allows others to distribute, remix, adapt, and build upon the work, even commercially, as long as the original creator is credited. However, the aforementioned usage terms remain in effect and restrict commercial use as described.
+
+By incorporating these terms into your README, you clearly communicate that while the plugin is available under a license that allows for its distribution and modification, there are restrictions on its commercial use. This is important to prevent misunderstandings and ensure users are aware of the conditions under which they can use your plugin.
+
 
 ## Credits
 
